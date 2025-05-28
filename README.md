@@ -1,12 +1,12 @@
 # Md. Saddam Hossain
 #Basic info
 ### Education
-MS in Microbiology                                                             
+𝐌𝐒 𝐢𝐧 𝐌𝐢𝐜𝐫𝐨𝐛𝐢𝐨𝐥𝐨𝐠𝐲                                                              
 Department of Microbiology,
 University of Dhaka, Bangladesh  
 GPA 3.42 out of 4.0
 
-BS in Microbiology                                                             
+𝐁𝐒 𝐢𝐧 𝐌𝐢𝐜𝐫𝐨𝐛𝐢𝐨𝐥𝐨𝐠𝐲                                                             
 Department of Microbiology,
 University of Dhaka, Bangladesh  
 GPA 3.59 out of 4.0
@@ -28,9 +28,9 @@ National Institute of Biotechnology, Savar, Dhaka, Bangladesh
 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲: SPSS, MEGA, QGIS, Cytoscape, Adobe Illustrator, MS/Libre/Google Office
 
 # Publications (Peer-reviewed)
-1. Hossain MS, Shorna AA, Sharmin S, Tusty TA, Hashem A, Sarker PK. Exploring the Antibacterial Potential of Environmental Pseudomonas aeruginosa Isolates: Insights from In Vitro Studies and Genome Mining Approaches. Journal of Genetic Engineering and Biotechnology. 2025 Sep 23(3). doi: https://doi.org/10.1016/j.jgeb.2025.100508  
-2. Hossain MS, Tuli SR, Fatima N, Ali S, Moon SB, Hashem A. A Comprehensive Pangenome Approach to Exploring the Probiotic Potential of Weissella Confusa. bioRxiv. 2024. p. 2024.10.06.616837. doi: https://doi.org/10.1101/2024.10.06.616837 (Under review in The Microbe, Manuscript number: MICROB-D-24-00843)  
-3. Hossain MS, Tuli SR, Fatima N, Tanim MT, Hashem A. Exploration of the metabolic potential of the Corallococcus genus: a rich source of secondary metabolites and CAZymes. Biologia. 2025 Jan 21:1-12. doi: https://doi.org/10.1007/s11756-025-01866-y  
+1. Hossain MS, Shorna AA, Sharmin S, Tusty TA, Hashem A, Sarker PK. Exploring the Antibacterial Potential of Environmental 𝑃𝑠𝑒𝑢𝑑𝑜𝑚𝑜𝑛𝑎𝑠 𝑎𝑒𝑟𝑢𝑔𝑖𝑛𝑜𝑠𝑎 Isolates: Insights from In Vitro Studies and Genome Mining Approaches. Journal of Genetic Engineering and Biotechnology. 2025 Sep 23(3). doi: https://doi.org/10.1016/j.jgeb.2025.100508  
+2. Hossain MS, Tuli SR, Fatima N, Ali S, Moon SB, Hashem A. A Comprehensive Pangenome Approach to Exploring the Probiotic Potential of 𝑊𝑒𝑖𝑠𝑠𝑒𝑙𝑙𝑎 𝐶𝑜𝑛𝑓𝑢𝑠𝑎. bioRxiv. 2024. p. 2024.10.06.616837. doi: https://doi.org/10.1101/2024.10.06.616837 (Under review in The Microbe, Manuscript number: MICROB-D-24-00843)  
+3. Hossain MS, Tuli SR, Fatima N, Tanim MT, Hashem A. Exploration of the metabolic potential of the 𝐶𝑜𝑟𝑎𝑙𝑙𝑜𝑐𝑜𝑐𝑐𝑢𝑠 genus: a rich source of secondary metabolites and CAZymes. Biologia. 2025 Jan 21:1-12. doi: https://doi.org/10.1007/s11756-025-01866-y  
 4. Shaha M, Majumder S, Hossain MS, Jahan M, Rahmat R, Asma R, Islam MA, Rahman MH, Das KC, Sarker PK, Mahtab MA, Akbar SMF, Salimullah M. Identification of a novel variant of hepatitis B virus isolated from patient co-infected with hepatitis C virus. Virus Res. 2022 Oct 2;319:198859. doi: https://doi.org/10.1016/j.virusres.2022.198859. PMID: 35809696.  
 5. Islam E, Hossain MS, Sarker PK, Towhid ST, Salimullah M, Hashem A. Isolation and characterization of electrogenic bacteria from tannery wastewater. Bangladesh J Microbiol. 2020;37(1):23-7. Available from: https://www.academia.edu/download/79121723/36394.pdf  
 6. Shaha M, Das KC, Hossain MS, Jahan M, Hashem A, Rahman SR, Salimullah M. Complete Genome Sequence of a Circulating Hepatitis B Virus Genotype C Strain Isolated from a Chronically Infected Patient Identified at an Outdoor Hospital in Bangladesh. Genome Announc. 2018 Mar 1;6(9):e01601-17. doi: https://doi.org/10.1128/genomeA.01601-17. PMID: 29496845;   
@@ -47,8 +47,27 @@ National Institute of Biotechnology, Savar, Dhaka, Bangladesh
 𝟐𝟎𝟎𝟗: Government scholarship for overall excellent performance on HSC exam result  
 
 # Professional Development
-![IMG_6668](https://github.com/user-attachments/assets/9e756cb8-3166-4127-89e6-01788c937dca)
-June 2023: Training on Introduction to R, Python and Linux  
-May 2023: Hands-on training on ‘Proteomics principles and application’  
-March 2020: Basic Course on ‘Epidemiology, Biostatistics and SPSS’  
+𝐌𝐚𝐲 𝟐𝟎𝟐𝟓: Animal Cell Culture Techniques for Advanced Research  
+𝐅𝐞𝐛, 𝟐𝟎𝟐𝟓: Laboratory Animals and Animal Facilities: Characteristics, Development, Ethics, Welfare and Legislation  
+𝐉𝐮𝐧𝐞 𝟐𝟎𝟐𝟑: Training on Introduction to R, Python and Linux  
+𝐌𝐚𝐲 𝟐𝟎𝟐𝟑: Hands-on training on ‘Proteomics principles and application’  
+𝐌𝐚𝐫𝐜𝐡 𝟐𝟎𝟐𝟎: Basic Course on ‘Epidemiology, Biostatistics and SPSS’  
 
+# Conferences/Webinar
+𝐎𝐫𝐚𝐥 𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐞𝐫: “Comprehensive In Vitro and In Silico Evaluation of 𝑊𝑒𝑖𝑠𝑠𝑒𝑙𝑙𝑎 𝑐𝑜𝑛𝑓𝑢𝑠𝑎 for Probiotic Potential”, 38th BSM Annual International Conference; 28-29 December, 2024  
+𝐎𝐫𝐚𝐥 𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐞𝐫: “Genomic Analysis of Antibiotic Producing Microbes Isolated from Environmental Soil Samples”, BGE International Conference; 2023  
+𝐏𝐨𝐬𝐭𝐞𝐫 𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧: “Isolation and Identifications of Potential Electrogenic Bacteria from Tannery Wastewater”, 32nd BSM Annual Conference; 2019  
+
+# Membership
+Global Outreach - Contributing Member of American Society for Microbiology (ASM)
+
+# Extra-curricular Activities/ Hobbies
+1. Captain of the Tiger team in the NIB Premier League (NPL);  
+2. Player, Cricket team, Department of Microbiology, University of Dhaka; 2012
+3. Table Tennis
+
+# Researcher Links
+1. https://www.researchgate.net/profile/Md-Saddam-Hossain-16
+2. https://scholar.google.com/citations?user=p0xjD0QAAAAJ&hl=en
+3. https://orcid.org/my-orcid?orcid=0000-0001-7735-9888
+4. https://www.webofscience.com/wos/author/record/N-3162-2019
