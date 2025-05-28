@@ -5,8 +5,7 @@ ResearGate: https://www.researchgate.net/profile/Md-Saddam-Hossain-16
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+
 social:
-  - network: ResearGate
-    url: https://www.researchgate.net/profile/Md-Saddam-Hossain-16
-#links: https://www.researchgate.net/profile/Md-Saddam-Hossain-16
+  ResearhGate: https://www.researchgate.net/profile/Md-Saddam-Hossain-16
 #gem "github-pages", group: :jekyll_plugins
