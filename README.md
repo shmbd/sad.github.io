@@ -6,6 +6,7 @@ University of Dhaka, Bangladesh
 ### Research Experience
 Scientific Officer (September, 2017 - Present)
 National Institute of Biotechnology, Savar, Dhaka, Bangladesh
+
   Led a team in developing probiotic strains to enhance human health, resulting in successful outcomes within the project tenure.
   
   Conducted a comprehensive whole genome analysis of probiotic bacteria to identify strains effective against hypercholesterolemia.
