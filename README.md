@@ -1,4 +1,6 @@
 # Microbiologist
 ### Education
-Microbiology
+MS in Microbiology                                                             
+Department of Microbiology
+University of Dhaka, Bangladesh
 ### Occupation
