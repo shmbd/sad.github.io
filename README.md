@@ -4,7 +4,7 @@ MS in Microbiology
 Department of Microbiology,
 University of Dhaka, Bangladesh
 ### Research Experience
-𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐟𝐢𝐜 𝐎𝐟𝐟𝐢𝐜𝐞𝐫 (Sep, 2017 - Present)
+ꗟ⋐ⅈⅇℼ╬ⅈ⨎ⅈ⋐ ⌾⨎⨎ⅈ⋐ⅇℾ (Sep, 2017 - Present)
 National Institute of Biotechnology, Savar, Dhaka, Bangladesh
 
   𝐋𝐞𝐝 a team in developing probiotic strains to enhance human health, resulting in successful outcomes within the project tenure
