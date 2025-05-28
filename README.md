@@ -3,12 +3,12 @@
 ### Education
 MS in Microbiology                                                             
 Department of Microbiology,
-University of Dhaka, Bangladesh
+University of Dhaka, Bangladesh  
 GPA 3.42 out of 4.0
 
 BS in Microbiology                                                             
 Department of Microbiology,
-University of Dhaka, Bangladesh
+University of Dhaka, Bangladesh  
 GPA 3.59 out of 4.0
 # Research Experience
 𝕊𝕔𝕚𝕖𝕟𝕥𝕚𝕗𝕚𝕔 𝕆𝕗𝕗𝕚𝕔𝕖𝕣 (Sep, 2017 - Present)                                             
