@@ -1,8 +1,6 @@
 # Md. Saddam Hossain
 # Contact
-𝐏𝐫𝐢𝐦𝐚𝐫𝐲 𝐞𝐦𝐚𝐢𝐥: sh20nov@gmail.com
-𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐞𝐦𝐚𝐢𝐥: sh20nov@nib.gov.bd
-𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩: +880 1521111532
+𝐏𝐫𝐢𝐦𝐚𝐫𝐲 𝐞𝐦𝐚𝐢𝐥: sh20nov@gmail.com; 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐞𝐦𝐚𝐢𝐥: sh20nov@nib.gov.bd; 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩: +880 1521111532
 ### Education
 𝐌𝐒 𝐢𝐧 𝐌𝐢𝐜𝐫𝐨𝐛𝐢𝐨𝐥𝐨𝐠𝐲                                                              
 Department of Microbiology,
