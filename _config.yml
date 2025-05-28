@@ -1,6 +1,8 @@
 # add the following to _config.yml file
 title: MS Hossain
 logo: profile.png
+#description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
 links: https://www.researchgate.net/profile/Md-Saddam-Hossain-16
 #gem "github-pages", group: :jekyll_plugins
