@@ -1,5 +1,5 @@
 # add the following to _config.yml file
-title: Md. Saddam Hossain
+  title: Md. Saddam Hossain
 logo: profile.png
 theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
